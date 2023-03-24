@@ -97,6 +97,16 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 ***
+  
+  ### **Michael DuBray**
+
+* ESIIL Intern - OLC
+* <a href="mailto: mdubray16514@olc.edu" target="_blank">**Email**
+* <a href="https://doobernicus.github.io/ESIIL/" target="_blank">**Website**</a>
+
+***
+
+<img style="float: right;" src="https://drive.google.com/file/d/1TxnTesCGOfRVWhcsEh8HD9AaxPH02CVl/view" width="125" height="125">
 
 
 <img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
