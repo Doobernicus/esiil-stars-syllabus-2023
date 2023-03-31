@@ -104,7 +104,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="[https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui](https://drive.google.com/file/d/1TxnTesCGOfRVWhcsEh8HD9AaxPH02CVl/view)" width="125" height="125">
+<img style="float: right;" src="https://drive.google.com/file/d/1TxnTesCGOfRVWhcsEh8HD9AaxPH02CVl/view" width="125" height="125">
 
 
 
