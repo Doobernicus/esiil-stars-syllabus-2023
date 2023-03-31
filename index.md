@@ -93,7 +93,19 @@ We appreciate these partnerships and look forward to working with you all!
 ***
 
 ### **ESIIL Interns** 
-(please add your profiles)
+  
+***
+  
+### **Michael DuBray**
+
+* OLC Junior-Physics
+* <a href="mailto: mdubray16514@olc.edu" target="_blank">**Email**
+* <a href="https://doobernicus.github.io/michaels_repository/" target="_blank">**Website**</a>
+
+***
+
+<img style="float: right;" src="[https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui](https://drive.google.com/file/d/1TxnTesCGOfRVWhcsEh8HD9AaxPH02CVl/view)" width="125" height="125">
+
 
 
 ***
